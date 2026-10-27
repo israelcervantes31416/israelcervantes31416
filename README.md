@@ -7,7 +7,7 @@ fallen antes de escribir algo mal.
   11 módulos y 4 flujos de ejecución, con contratos de datos, barreras de validación
   *fail-closed* y trazabilidad de cada corrida. Procesaba dos carteras aisladas entre sí,
   con más de 250,000 cuentas, y bajó el ciclo de preparación de cartera y entregables de
-  ~12 horas a ~10 minutos. Siguió operando después de mi salida.
+  ~12 horas a ~10 minutos.
 - **Un motor territorial de cobranza de campo**: cartografía del INEGI, zonificación por
   clustering y ruteo con OSRM con respaldo controlado, para cerca de 9,000 clientes en más
   de 600 tramos.
