@@ -23,9 +23,30 @@ perfecciono y llevo más lejos lo que aprendí construyendo esos sistemas.
 
 ### Del lado matemático
 
-Estadística multivariada, optimización y modelación. Mi tesis implementa regresión
-multivariada desde la formulación matricial sobre los 2,469 municipios del Censo 2020, con
-los supuestos que no se cumplen escritos y un proceso reproducible.
+Elegí las cinco optativas de la carrera en estadística, y mi fuerte está en optimización y
+modelación.
+
+**[Mi tesis](https://github.com/israelcervantes31416/regresion-multivariada-censo2020)**
+modela en conjunto cuatro indicadores de rezago social en los 2,469 municipios del país, con
+los datos completos del Censo 2020: 126 millones de personas, no una muestra. Programé la
+regresión multivariada desde el álgebra lineal —estimación, pruebas de Wilks y Pillai,
+diagnóstico de residuos y análisis canónico—, porque ninguna biblioteca lo resolvía de forma
+transparente. La primera dirección canónica concentra el 93.8% de la asociación, y la domina
+el analfabetismo adulto. La tesis también dice dónde falla el modelo: qué supuestos no se
+cumplen, qué pasa al excluir los municipios influyentes y por qué sus resultados describen
+municipios, no personas.
+
+Antes, en mi práctica profesional, condensé 276 variables del mismo censo en tres
+componentes principales que explican el 91.13% de la varianza, y lo presenté como
+infografía en el 58.º Congreso Nacional de Matemáticas.
+
+Desde julio de 2026 desarrollo un proyecto cuantitativo propio sobre futuros de cripto, en
+repositorios privados por ahora: investigación prerregistrada, validación fuera de muestra,
+costos de ejecución incluidos y la regla de no arriesgar capital mientras la evidencia no lo
+justifique.
+
+Formación complementaria: Diplomado en Ciencia de Datos (BUAP, 120 h), Técnico en Big Data
+(Fundación Carlos Slim, 542 h) y certificados de Google Cloud, Google e IBM.
 
 ### Cómo trabajo
 
